@@ -24,9 +24,6 @@
   <img alt="Github stars" src="https://img.shields.io/github/stars/viniciussoaresti/instagram-clone?color=56BEB8" />
 </p>
 
-<h4 align="center"> 
-	🚧  Instagram Clone 🚀 Under construction...  🚧
-</h4> 
 
 <hr> 
 
@@ -48,19 +45,17 @@ Instagram's landing page clone, as seen on DIO's bootcamp 🤳
 
 Base project:
 
-:x: Responsive;\
+:heavy_check_mark: Responsive;\
 :heavy_check_mark: HTML, CSS and JS only;
-
-Challenges (after done with the base project):
-
-:x: Make the buttons come alive (redirecting to youtube or opening the video after clicking on watch now, showing popup with more information);\
-:x: Change color, icons and give it a new look;
 
 My personal contributions:
 
 :x: Favicon;\
-:x: English translation;\
-:x: Hosted on Netlify;
+:heavy_check_mark: English translation;\
+:heavy_check_mark: Hosted on Netlify;\
+:x: Compresses images to reduce latency;\
+:x: Make the buttons' actions;\
+:x: Fixed the buttons' style when too little;
 
 ## :rocket: Technologies ##
 
@@ -69,7 +64,6 @@ The following tools were used in this project:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JS](https://developer.mozilla.org/pt-BR/docs/Web/Javascript)
-- [FontAwesome](https://fontawesome.com/)
 - [Favicon.IO](https://favicon.io/)
 - [Netlify](https://www.netlify.com/)
 
@@ -78,7 +72,7 @@ The following tools were used in this project:
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/viniciussoaresti" target="_blank">Vinícius Soares</a>
+Made with :heart: by <a href="https://github.com/viniciussoaresti" target="_blank">Vinícius Soares</a> and inspired by <a href="https://github.com/SpruceGabriela" target="_blank">Gabriela Pinheiro's </a> Instagram's Clone, which you can find <a href="https://github.com/SpruceGabriela/instagram-dio" target="_blank">here</a>.
 
 &#xa0;
 
