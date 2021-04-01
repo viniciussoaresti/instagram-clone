@@ -50,7 +50,7 @@ Base project:
 
 My personal contributions:
 
-:x: Favicon;\
+:heavy_check_mark: Favicon;\
 :heavy_check_mark: English translation;\
 :heavy_check_mark: Hosted on Netlify;\
 :x: Compresses images to reduce latency;\
