@@ -55,7 +55,7 @@ My personal contributions:
 :heavy_check_mark: Hosted on Netlify;\
 :heavy_check_mark: Compresses images to reduce latency;\
 :heavy_check_mark: Make the buttons' actions and animations, and media query transitions J4F;\
-:x: Fixed the buttons' style when too little;
+:heavy_check_mark: Fixed the buttons' style when too little;
 
 ## :rocket: Technologies ##
 
