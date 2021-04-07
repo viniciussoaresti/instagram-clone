@@ -1,3 +1,7 @@
+:root{
+    --hoverBlue: #0365a7;
+}
+
 *{
   padding: 0;  
   margin: 0;
@@ -5,6 +9,7 @@
   text-decoration: none;
   font-family: sans-serif;
   font-size: 14px;
+  transition: ease-in-out 1s;
 }
 
 body{
@@ -94,6 +99,11 @@ body{
 
 .link-blue{
     color: #0095f6;
+    cursor: pointer;
+}
+
+.link-blue:hover{
+    color: var(--hoverBlue);
 }
 
 .get-the-app{
@@ -155,4 +165,8 @@ body{
     .group{
         border: 1px solid transparent;
     }
+}
+
+a:hover{
+    color: var(--hoverBlue);
 }
