@@ -137,15 +137,19 @@ body{
     background-image: url('./img/googleplay-button.png');
 }
 
+a:hover{
+    color: var(--hoverBlue);
+}
+
 /* responsive */
 
-@media (max-width: 1024px){
+@media (max-width: 1035px){
     .instagram-wrapper{
         width: 90%;
     }
 }
 
-@media (max-width: 650px){
+@media (max-width: 690px){
     body{
         background-color: #ffffff;
     }
@@ -167,6 +171,8 @@ body{
     }
 }
 
-a:hover{
-    color: var(--hoverBlue);
+@media (max-width: 350px){
+    .download{
+        flex-direction: column;
+    }
 }
