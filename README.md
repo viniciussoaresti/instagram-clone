@@ -53,8 +53,8 @@ My personal contributions:
 :heavy_check_mark: Favicon;\
 :heavy_check_mark: English translation;\
 :heavy_check_mark: Hosted on Netlify;\
-:heavy_check_mark: Compresses images to reduce latency;\
-:heavy_check_mark: Make the buttons' actions and animations, and media query transitions J4F;\
+:heavy_check_mark: Compressed images to reduce latency;\
+:heavy_check_mark: Made the buttons' actions and animations, and media query transitions just for fun;\
 :heavy_check_mark: Fixed the buttons' style when too little;
 
 ## :rocket: Technologies ##
