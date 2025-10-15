@@ -3,7 +3,7 @@
 
   &#xa0;
 
- <a href="https://silly-squirrel-59f5e7.netlify.app/">👉Live Demo👈</a>
+ <a href="https://viniciussoaresti.github.io/instagram-clone/">👉Live Demo👈</a>
 </div>
 
 <h1 align="center">Instagram Clone</h1>
