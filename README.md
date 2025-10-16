@@ -1,9 +1,10 @@
 <div align="center" id="top"> 
   <img src="./github/app.gif" alt="Instagram Clone" />
 
-  &#xa0;
+&#xa0;
 
- <a href="https://viniciussoaresti.github.io/instagram-clone/">👉Live Demo👈</a>
+<a href="https://viniciussoaresti.github.io/instagramClone/">👉Live Demo👈</a>
+
 </div>
 
 <h1 align="center">Instagram Clone</h1>
@@ -24,8 +25,7 @@
   <img alt="Github stars" src="https://img.shields.io/github/stars/viniciussoaresti/instagram-clone?color=56BEB8" />
 </p>
 
-
-<hr> 
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -37,11 +37,11 @@
 
 <br>
 
-## :dart: About ##
+## :dart: About
 
 Instagram's landing page clone, as seen on DIO's bootcamp 🤳
 
-## :sparkles: Features ##
+## :sparkles: Features
 
 Base project:
 
@@ -57,7 +57,7 @@ My personal contributions:
 :heavy_check_mark: Made the buttons' actions and animations, and media query transitions just for fun;\
 :heavy_check_mark: Fixed the buttons' style when too little;
 
-## :rocket: Technologies ##
+## :rocket: Technologies
 
 The following tools were used in this project:
 
@@ -67,10 +67,9 @@ The following tools were used in this project:
 - [Favicon.IO](https://favicon.io/)
 - [Netlify](https://www.netlify.com/)
 
-## :memo: License ##
+## :memo: License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
 
 Made with :heart: by <a href="https://github.com/viniciussoaresti" target="_blank">Vinícius Soares</a> and inspired by <a href="https://github.com/SpruceGabriela" target="_blank">Gabriela Pinheiro's </a> Instagram's Clone, which you can find <a href="https://github.com/SpruceGabriela/instagram-dio" target="_blank">here</a>.
 
